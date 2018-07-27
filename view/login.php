@@ -28,5 +28,9 @@
     </nav>  
         <!-- Form Untuk Login ke Area Akses  -->
         <form action="">
+<<<<<<< HEAD
             
+=======
+            ataikakka
+>>>>>>> 9484e49f02f5c028fd20fd5bf8ed75ab49584a47
         </form>
