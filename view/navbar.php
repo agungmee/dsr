@@ -16,8 +16,10 @@
       </li>
       </ul>
     </ul>
-        <ul class="nav navbar-nav navbar-right">
-        <li><a href="view/login.php"><button type="button" class="btn btn-outline-success">Log in</button></a></li>
-        </ul>
+    <!-- Membuat Letak di kanan NavBar -->
+    <ul class="navbar-nav ml-auto">
+    <li class="nav-item">
+    <a href="view/login.php"><button type="button" class="btn btn-outline-info">Login</button></a>
+    </ul>
   </div>
 </nav>  
