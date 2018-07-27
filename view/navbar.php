@@ -16,7 +16,7 @@
       </li>
       </ul>
     </ul>
-    <!-- Membuat Letak di kanan NavBar -->
+    <!-- Membuat Letak di kanan NavBar one -->
     <ul class="navbar-nav ml-auto">
     <li class="nav-item">
     <a href="view/login.php"><button type="button" class="btn btn-outline-info">Login</button></a>
