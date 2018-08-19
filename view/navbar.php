@@ -19,7 +19,7 @@
     <!-- Membuat Letak di kanan NavBar one -->
     <ul class="navbar-nav ml-auto">
     <li class="nav-item">
-    <a href="view/login.php"><button type="button" class="btn btn-outline-info">Login</button></a>
+    <a href="view/logout.php"><button type="button" class="btn btn-outline-info">Logout</button></a>
     </ul>
   </div>
 </nav>  
