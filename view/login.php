@@ -9,7 +9,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.13.1/jquery.validate.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-
+<?php include("../validasi_login.php"); ?>
 <style>
 html,
 body {
@@ -461,7 +461,7 @@ label:hover:before {
 						<label for="lg_remember">remember</label>
 					</div>
 				</div>
-				<button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
+				<button type="submit" class="login-button" ><i class="fa fa-chevron-right"></i></button>
 			</div>
 			<div class="etc-login-form">
 				<p>forgot your password? <a href="#">click here</a></p>
